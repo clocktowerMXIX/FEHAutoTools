@@ -23,14 +23,15 @@ open FEH and press the overlaid translucent white play button
 
 ~~~Current Scripts~~~
 
---FEHFullReroll     (old version) demo video here: https://youtu.be/kIu3qtsVivA (it's kind of boring though since it's just a screen capture. Should probably make a video of the device itself)
+--FEHFullReroll     (old version) demo video here: https://youtu.be/kIu3qtsVivA (it's kind of boring)
+
+
 	This script should run through the download, opening scenes, tutorial, and then make a couple summons (with root it can restart this untill a set number of 5 stars are rolled. See below)
 
+	
 	+Optional Setup: Open up the FEHFullReroll.lua script in a text editor and change the numberOfSummons and bannerNumber options in the first few lines as desired
 		numberOfSummons is the number of full 5 orb summons to do (specific summon color choices comming soon)
-		bannerNumber is the number of times to click the right arrow on the summon banner page before summoning
-
-		
+		bannerNumber is the number of times to click the right arrow on the summon banner page before summoning		
 		
 		
 	-Single Reroll (no root required)
@@ -59,6 +60,7 @@ open FEH and press the overlaid translucent white play button
 
 
 
-Helpful links
+Helpful links:
+
 resolve 803-3001 errors:  https://serenesforest.net/forums/index.php?/topic/68725-fe-heroes-error-803-3001/&page=4
 ankulua reference: http://ankulua.boards.net/thread/6/objects-methods-introduction-sikuli-compatible#existsClick
