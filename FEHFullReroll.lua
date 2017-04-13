@@ -23,9 +23,9 @@ function runInitialSetup()
 	-- This starts at the language select screen, runs through the tutorial, 
 	-- and ends on the fist time visiting the 'Battle' tab
 	wait(3)
-	usaRegion = Region(226, 336, 487, 388)
-	usaRegion:click("usaSelect.png")
-	waitClick("confirmDark.png",timeout)
+	--usaRegion = Region(226, 336, 487, 388)
+	--usaRegion:click("usaSelect.png")
+	--waitClick("confirmDark.png",timeout)
 	waitClick("acceptGreen.png",timeout)
 	waitClick("linkLaterRed.png",timeout)
 	wait(3)
