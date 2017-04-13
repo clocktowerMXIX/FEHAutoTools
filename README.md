@@ -21,9 +21,11 @@ open FEH and press the overlaid translucent white play button
 
 
 
-~~~Current Scripts~~~
 
---FEHFullReroll     (old version) demo video here: https://youtu.be/kIu3qtsVivA (it's kind of boring)
+
+## Current Scripts
+
+### FEHFullReroll     (old version) demo video here: https://youtu.be/kIu3qtsVivA (it's kind of boring)
 
 
 	This script should run through the download, opening scenes, tutorial, and then make a couple summons (with root it can restart this untill a set number of 5 stars are rolled. See below)
@@ -34,7 +36,7 @@ open FEH and press the overlaid translucent white play button
 		bannerNumber is the number of times to click the right arrow on the summon banner page before summoning		
 		
 		
-	-Single Reroll (no root required)
+#####	-Single Reroll (no root required)
 
 		Start with a fresh FEH app. Either a new install, clear the app data through settings, or delete shared prefs
 
@@ -43,7 +45,7 @@ open FEH and press the overlaid translucent white play button
 		
 
 		
-	-!NEW! Reroll untill X number of 5 stars (for now only works in Nox and other devices that automatically go into landscape mode when the home button is pressed)
+#####	-!NEW! Reroll untill X number of 5 stars (for now only works in Nox and other devices that automatically go into landscape mode when the home button is pressed)
 
 		Download and install FEH Restart App available here: https://github.com/Neffez/FEHrestart/raw/master/apk/FEHrestart-v0.1.apk
 		
